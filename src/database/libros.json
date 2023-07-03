@@ -1,0 +1,56 @@
+[
+	{
+		"id": 1,
+		"titulo": "La Metamorfosis",
+		"autor": "Franz Kafka",
+		"edicion": "1997",
+		"idioma": "Castellano",
+		"editorial": "Colihue",
+		"precio": 1750
+	},
+	{
+		"id": 2,
+		"titulo": "El Aleph",
+		"autor": "Jorge Luis Borges",
+		"edicion": "2011",
+		"idioma": "Castellano",
+		"editorial": "Debolsillo",
+		"precio": 6300
+	},
+	{
+		"id": 3,
+		"titulo": "El Tunel",
+		"autor": "Ernesto Sabato",
+		"edicion": "2011",
+		"idioma": "Castellano",
+		"editorial": "Catedra",
+		"precio": 3400
+	},
+	{
+		"id": 6,
+		"titulo": "La Guerra y La Paz",
+		"autor": "Leon Tolstoi",
+		"edicion": "2013",
+		"idioma": "Castellano",
+		"editorial": "Losada",
+		"precio": 10500
+	},
+	{
+		"id": 5,
+		"titulo": "Crimen y Castigo",
+		"autor": "Fedor Dostoievsky",
+		"edicion": "2021",
+		"idioma": "Ingles",
+		"editorial": "Alma",
+		"precio": 13000
+	},
+	{
+		"id": 7,
+		"titulo": "El Cuarto de Jacob",
+		"autor": "Virginia Woolf",
+		"edicion": "2022",
+		"idioma": "Castellano",
+		"editorial": "Lumen",
+		"precio": 8299
+	}
+]
